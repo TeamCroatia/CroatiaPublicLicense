@@ -1,4 +1,4 @@
-Team Croatia Out-Game License - Team Croatia Out-Game License
+Team Croatia Out-Game License
 ==========
 팀 크로아티아 외부개발 이용허락
 Beta 2 (현재 사용중인 라이선스로 완성되지는 않음)
@@ -8,17 +8,17 @@ Beta 2 (현재 사용중인 라이선스로 완성되지는 않음)
 
 
 ### 라이선스 정보
-Croatia OG License는 Croatia License(default.md)의 하위 라이선스입니다. Croatia License의 부연설명은 이 Croatia OG License에도 동일하게 적용됩니다. 동시에 Croatia License의 내용은 Croatia OG License에 언급되어있지 않다고 Croatia License의  예외인 것은 아닙니다.
+Team Croatia Out-Game License(이하 '외부개발 라이센스'라 칭합니다)는 Croatia Public License(이하 '기본 라이센스'라고 칭합니다)의 하위 라이선스입니다. 기본 라이센스의 부연설명은 이 외부개발 라이센스에도 동일하게 적용됩니다. 동시에 기본 라이센스의 내용은 외부개발 라이센스에 언급되어있지 않다고 기본 라이센스의  예외인 것은 아닙니다.
 
 
 ### 오픈소스 라이선스
-오픈소스 라이선스는 좀더 나은 성능을 위해 내부 코드(이하 소스)를 공개하는 이용허락입니다. Croatia OG License는 개별적으로 이 라이선스를 추가로 따르지만, Croatia License를 기반으로 함에는 변화가 없습니다. 오픈소스여도 Croatia License의 효력에 의해 소스 이용시에는 소스의 출처와 라이선스 페이지를 동봉해야합니다. 모든 소스는 Croatia License에 따라 깃허브에 공개되어 있습니다. http://github.com/teamcroatia
+오픈소스 라이선스는 좀더 나은 성능을 위해 내부 코드(이하 소스)를 공개하는 이용허락입니다. 외부개발 라이센스는 개별적으로 이 라이선스를 추가로 따르지만, 기본 라이센스를 기반으로 함에는 변화가 없습니다. 오픈소스여도 기본 라이센스의 효력에 의해 소스 이용시에는 소스의 출처와 라이선스 페이지를 동봉해야합니다. 모든 소스는 기본 라이센스에 따라 [깃허브](http://github.com/teamcroatia)에 공개되어 있습니다. 
 
 
 
 ### 용어 정리
 
-Croatia OG License는 <정의>부분이 생략되어 있으며 상위 라이선스인 Croatia License의 <1.정의>를 참조하십시오.
+외부개발 라이센스는 <정의>부분이 생략되어 있으며 상위 라이선스인 기본 라이센스의 <1.정의>를 참조하십시오.
 
 
 ### 1. Croatia Launcher (Client) License
