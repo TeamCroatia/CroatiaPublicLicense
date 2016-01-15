@@ -1,6 +1,4 @@
-﻿Team Croatia License
-
-팀 크로아티아 이용허락
+﻿Team Croatia License - 팀 크로아티아 이용허락
 ==========
 Beta 2.1
 
