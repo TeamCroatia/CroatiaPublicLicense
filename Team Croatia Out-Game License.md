@@ -1,4 +1,4 @@
-Team Croatia Out-Game License
+Team Croatia Out-Game License - 팀 크로아티아 외부개발 라이선스
 ==========
 팀 크로아티아 외부개발 이용허락 <br />
 Beta 2 (현재 사용중인 라이센스로 완성되지는 않음)<br />
